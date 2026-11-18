@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>MaDocs</title>
+  <!-- Dokumen dengan sudut terlipat -->
+  <path d="M14 4h24l14 14v38a4 4 0 0 1-4 4H14a4 4 0 0 1-4-4V8a4 4 0 0 1 4-4z" fill="#172A39"/>
+  <path d="M38 4l14 14H42a4 4 0 0 1-4-4z" fill="#FC563C"/>
+  <!-- Huruf M -->
+  <path d="M19 49V29l13 13 13-13v20" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
